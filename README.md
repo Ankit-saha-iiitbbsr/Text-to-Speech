@@ -6,4 +6,4 @@
 Here we have project screenshot :
 
 
-![screenshot](sample screenshot.jpg)
+![screenshot](samplescreenshot.jpg)
