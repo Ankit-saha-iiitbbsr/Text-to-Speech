@@ -1,8 +1,9 @@
-### Text To Speech App
-A text to speech app with javascript. this text to speech is fully responsive and you can use it in your sites❗️
+## Text To Speech App
+- A text to speech app with javascript. this text to speech is fully responsive and you can use it in your sites❗️
+- GitHub pages: https://ankit-saha-iiitbbsr.github.io/Text-to-Speech/
 
-# Screenshot
+### Screenshot
 Here we have project screenshot :
 
 
-![screenshot](screenshot.jpg)
+![screenshot](sample screenshot.jpg)
